@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color: white;
+}
+
+#body-tag{
+    background-color: #0079FF;
+    /* border: 2px solid red; */
+
+    padding: 20px;
+}
+#main{
+    width: 400px;
+}
